@@ -1,0 +1,14 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/iyasin/projects",
+            "binaryPath": "/home/iyasin/projects/test",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/home/iyasin/projects",
+            "binaryPath": "/home/iyasin/projects/stock",
+            "binaryArgs": []
+        }
+    ]
+}
